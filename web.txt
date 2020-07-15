@@ -1,2 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+</head>
+<body>
 
-html pages
+<h1>Welcome to my website</h1>
+<p>This is the website where you can get all the yoga exercices.</p>
+
+</body>
+</html>

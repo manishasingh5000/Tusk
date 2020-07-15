@@ -1,6 +1,22 @@
 ## Welcome to my website
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
-This is the website where you can get all the yoga exercise.
+<h1>This is a heading</h1>
+<p>This is the website where you can get all the yoga exercise. As you all know this the time we can give our time yo manitain our body and during this covid-19 , yoga is essential for our health.</p>
+<div>This is a div.</div>
+
+</body>
+</html>
+
 
 ### Markdown
 

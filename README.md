@@ -38,15 +38,15 @@ The goal of yoga is unity of the body, mind and spirit with the focus on body po
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="hathayoga.jpg" alt="hathayoga" style="width:100%;">
+        <img src="hathayoga.jpg" alt="hathayoga" style="width:50%;">
       </div>
 
       <div class="item">
-        <img src="hathayoga1.jpg" alt="hathayoga1" style="width:100%;">
+        <img src="hathayoga1.jpg" alt="hathayoga1" style="width:50%;">
       </div>
     
       <div class="item">
-        <img src="hathayoga2.jpg" alt="hathayoga2" style="width:100%;">
+        <img src="hathayoga2.jpg" alt="hathayoga2" style="width:50%;">
       </div>
     </div>
 

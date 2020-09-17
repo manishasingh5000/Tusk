@@ -15,5 +15,5 @@ The goal of yoga is unity of the body, mind and spirit with the focus on body po
 ### The first one is Hatha Yoga – the basis of all styles that focuses on asanas or postures
 <img src="hathayoga.jpg" alt="hathayoga" width="500" height="300">
 ### The second is Power Yoga – combines strength exercises, stretching and meditative breathing.
-<img src="power yoga.jpg" alt="poweryoga" width="500" height="300">
+<img src="poweryoga.jpg" alt="poweryoga" width="500" height="300">
 

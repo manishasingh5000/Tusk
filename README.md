@@ -25,7 +25,6 @@ The goal of yoga is unity of the body, mind and spirit with the focus on body po
 <body>
 
 <div class="container">
-  <h2>Carousel Example</h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -77,7 +76,6 @@ The goal of yoga is unity of the body, mind and spirit with the focus on body po
 <body>
 
 <div class="container">
-  <h2>Carousel Example</h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
